@@ -3,10 +3,9 @@
 <h2> Numble Calculator App</h2>
 <h3>By: Christian Barbosa</h3>
 
-1. ![Numble Application - launching the app](assets/readme_images/img001.jpg)
-2. ![Numble Application - User Interface](assets/readme_images/img01.jpg)
-3. ![Numble Application - Sample Result](assets/readme_images/img1.jpg)
-
+1. <img src="assets/readme_images/img001.jpg" alt="Numble Application - launching the app" width="300" />
+2. <img src="assets/readme_images/img01.jpg" alt="Numble Application - User Interface" width="300" />
+3. <img src="assets/readme_images/img1.jpg" alt="Numble Application - Sample Result" width="300" />
 
 A new Flutter project.
 
