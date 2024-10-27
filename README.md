@@ -4,18 +4,20 @@
 <h3>By: Christian Barbosa</h3>
 
 <div style="text-align: center;">
-  1. <img src="assets/readme_images/img001.jpg" alt="Numble Application - launching the app" width="190" />
-  <p>Numble Application - launching the app</p>
+  1. <p>Numble Application - launching the app</p></br>
+  <img src="assets/readme_images/img001.jpg" alt="Numble Application - launching the app" width="190" />
 </div>
 
 <div style="text-align: center;">
-  2. <img src="assets/readme_images/img01.jpg" alt="Numble Application - User Interface" width="190" />
-  <p>Numble Application - User Interface</p>
+  2. <p>Numble Application - User Interface</p></br>
+  <img src="assets/readme_images/img01.jpg" alt="Numble Application - User Interface" width="190" />
+
 </div>
 
 <div style="text-align: center;">
-  3. <img src="assets/readme_images/img1.jpg" alt="Numble Application - Sample Result" width="190" />
-  <p>Numble Application - Sample Result</p>
+  3. <p>Numble Application - Sample Result</p></br>
+  <img src="assets/readme_images/img1.jpg" alt="Numble Application - Sample Result" width="190" />
+
 </div>
 
 ## Getting Started With Flutter
