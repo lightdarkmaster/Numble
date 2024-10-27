@@ -1,4 +1,12 @@
-# mycalculatorv1
+# Numble
+
+<h2> Numble Calculator App</h2>
+<h3>By: Christian Barbosa</h3>
+
+1. ![Numble Application - launching the app](assets/readme_images/img001.jpg)
+2. ![Numble Application - User Interface](assets/readme_images/img01.jpg)
+3. ![Numble Application - Sample Result](assets/readme_images/img1.jpg)
+
 
 A new Flutter project.
 
