@@ -3,13 +3,24 @@
 <h2> Numble Calculator App</h2>
 <h3>By: Christian Barbosa</h3>
 
-1. <img src="assets/readme_images/img001.jpg" alt="Numble Application - launching the app" width="300" />
-2. <img src="assets/readme_images/img01.jpg" alt="Numble Application - User Interface" width="300" />
-3. <img src="assets/readme_images/img1.jpg" alt="Numble Application - Sample Result" width="300" />
+<div style="text-align: center;">
+  1. <p>Numble Application - launching the app</p></br>
+  <img src="assets/readme_images/img001.jpg" alt="Numble Application - launching the app" width="190" />
+</div>
 
-A new Flutter project.
+<div style="text-align: center;">
+  2. <p>Numble Application - User Interface</p></br>
+  <img src="assets/readme_images/img01.jpg" alt="Numble Application - User Interface" width="190" />
 
-## Getting Started
+</div>
+
+<div style="text-align: center;">
+  3. <p>Numble Application - Sample Result</p></br>
+  <img src="assets/readme_images/img1.jpg" alt="Numble Application - Sample Result" width="190" />
+
+</div>
+
+## Getting Started With Flutter
 
 This project is a starting point for a Flutter application.
 
